@@ -10,7 +10,7 @@ export default class App extends Component {
       userName : "Kashish",
       todoItems: [
         { action: "Complete Lab 2", done: false},
-        { action: "Publish to Github", done: false},
+        { action: "Publish to Github!", done: false},
         { action: "Submit Assignment", done: false}
       ]
     };
